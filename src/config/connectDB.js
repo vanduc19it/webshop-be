@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 import bluebird from "bluebird" ;
-
-
+import dotenv  from "dotenv"
+dotenv.config()
 
 let connectDB = () => {
     mongoose.Promise = bluebird ; 
