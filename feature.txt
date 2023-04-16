@@ -1,0 +1,8 @@
+login:
+    - login with username and password
+    - login with facebook
+get list Product: 
+get list Product by category
+Search Product
+comment
+rate 
